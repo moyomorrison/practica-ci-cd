@@ -1,0 +1,9 @@
+{
+  "name": "practica-acciones",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo 'Linting correcto'",
+    "test": "echo 'Pruebas correctas' && mkdir -p coverage",
+    "build": "echo 'Compilación correcta' && mkdir -p dist"
+  }
+}
