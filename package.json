@@ -4,6 +4,6 @@
   "scripts": {
     "lint": "echo 'Linting correcto'",
     "test": "echo 'Pruebas correctas' && mkdir -p coverage",
-    "build": "echo 'Compilación correcta' && mkdir -p dist"
+    "build": "echo 'Compilación correcta' && mkdir -p dist && echo 'sitio web listo' > dist/index.html"
   }
 }
